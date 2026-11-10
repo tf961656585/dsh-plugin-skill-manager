@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Skill manager",
+    "description": "Turn skills on or off per directory from the sidebar; affects DSH only and never edits skill files."
+  }
+}

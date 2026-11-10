@@ -1,0 +1,19 @@
+# Dependencies (this plugin ships plain JS; no build step)
+node_modules/
+.pnpm-store/
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Logs and scratch files
+*.log
+*.tmp
+
+# Plugin state written into the DSH profile: the list of skills you
+# switched off on this machine.
+skill-manager.json

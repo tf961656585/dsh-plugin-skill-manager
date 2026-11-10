@@ -1,0 +1,4 @@
+# Adds the Skill Manager panel. Does not disable or replace any shipped row.
+- insert:
+    - id: skill-manager
+      name: dsh-plugin-skill-manager

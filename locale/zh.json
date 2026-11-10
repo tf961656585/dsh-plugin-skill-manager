@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "技能管理",
+    "description": "在侧栏按目录管理 skill 的开关；只影响 DSH，不修改 skill 文件。"
+  }
+}
